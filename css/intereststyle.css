@@ -1,0 +1,28 @@
+label{
+    display:block !important;
+    margin-top: 15px;
+    margin-left:15px;
+    color:black;
+ }
+ 
+
+ .input-cls{
+    margin-top: 5px;
+    /* margin-left:10px; */
+    display:block;
+    text-transform: capitalize;
+
+}
+
+.sub-cls{
+    margin-top: 20px;
+    display:block;
+    text-align:center;
+    padding: 5px 55px 5px 55px ;
+    border-radius: 3px;
+    background-color:rgb(212, 177, 80);
+    border: 1px white;
+    border-collapse:collapse;
+    color:white;
+    margin-left: 15px;
+}
